@@ -1,4 +1,4 @@
-**This script is will test your typing-speed in the terminal.**
+**This program is a single file python script that will test your typing-speed in the terminal.**
 
 Set your preferred settings by changing the relevant constants at the top of the file.
 
