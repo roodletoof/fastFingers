@@ -1,0 +1,2 @@
+# Already installed on unix environments
+windows-curses==2.3.0
