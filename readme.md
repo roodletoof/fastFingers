@@ -2,14 +2,13 @@
 
 Set your preferred settings by changing the relevant constants at the top of the file.
 
-The goal of this is to have something that is easy to just download and test.
+One of the goals I had while making this was for the project to only be a single file.
 
 
 ***To reach that goal I have done the following things:***
 
 
-- The high-score is updated each time it is beat, and stored at the top of the script as a constant.
-The constant is found and updated using a regular expression, so as long as the regex still matches the MY_RECORD constant, there should be no problem.
+- The script updates itself to set a new highscore, so there is no separate save file.
 
 
 - The list of words is downloaded each time the script runs.
