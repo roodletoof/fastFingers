@@ -12,3 +12,6 @@ One of the goals I had while making this was for the project to only be a single
 
 
 - The list of words is downloaded each time the script runs.
+
+
+***Have not tested on windows***
